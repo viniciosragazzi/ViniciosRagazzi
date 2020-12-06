@@ -20,7 +20,7 @@
 <p align="left">
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980534112&text=Ol%C3%A1%2C%20em%20breve%20responderei%20sua%20mensagem!/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980534112&text=Ol%C3%A1%2C%20em%20breve%20responderei%20sua%20mensagem!"/></a>
 
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicios.ragazzi.750/"/></a>
