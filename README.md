@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JS</strong>
+  💻 Linguagens: <strong>HTML, CSS, JS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, GitHub</strong>
+  🛠 Ferramentas: <strong>Visual Studio Code, GitHub</strong>
 </p>
 
 <p align="left">
-  💌 Para mais informações, entre em contato comigo: ⤵️
+  📪 Para mais informações, entre em contato comigo: 👇
 </p>
 
 <p align="left">
