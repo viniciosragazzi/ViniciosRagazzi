@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/viniciosragazzi/ViniciosRagazzi/main/%E2%80%94Pngtree%E2%80%94programming%20and%20web%20technology%20vector_4089305.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, meu nome é Vinicios Ragazzi, tenho 19 anos e no momento estou focado na área do desenvolvimento web <strong>Front-end</strong>.<br>
