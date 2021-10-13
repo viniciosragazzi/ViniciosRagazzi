@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Vinicios Ragazzi, tenho 20 anos e no momento estou focado na área do desenvolvimento web <strong>Front-end</strong>.<br>
-  Ainda estou a procura de uma oportunidade para poder exercer meu trabalho como programador, mas no momento estou somente estudando e cursando a faculdade de ADS.
+ Cursando Analise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
