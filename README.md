@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/4326557/screenshots/9076891/media/8595285554daf6bdd85fc236c25e88ea.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.ytimg.com/vi/6aFxA699pRA/maxresdefault.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, meu nome é Vinicios Ragazzi, tenho 20 anos e no momento estou focado na área do desenvolvimento web <strong>Front-end</strong>.<br>
