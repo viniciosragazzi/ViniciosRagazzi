@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  FrontEnd Developer<br>🎓 Computer Systems Analysis and Development Student<br> 🌐 https://vinicios-ragazzi-com.vercel.app<br>
+💻  FrontEnd Developer<br>🎓 Computer Systems Analysis and Development Student<br> 🌐 https://vinicios-ragazzi-portfolio.vercel.app<br>
 
 
 ## 🌐 Socials:
